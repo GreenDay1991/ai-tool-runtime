@@ -18,6 +18,14 @@
     <name>ai-tool-runtime</name>
     <description>Spring AI Tool 的动态运行时增强层</description>
 
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <modules>
         <module>ai-tool-runtime-core</module>
         <module>ai-tool-runtime-spring</module>
