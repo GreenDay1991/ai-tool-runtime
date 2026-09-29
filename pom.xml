@@ -26,6 +26,10 @@
         </license>
     </licenses>
 
+    <organization>
+        <name>GreenDay1991</name>
+    </organization>
+
     <modules>
         <module>ai-tool-runtime-core</module>
         <module>ai-tool-runtime-spring</module>
